@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Mon Oct 27 21:21:52 CST 2014
+genBasicCompId=false
+sessionFactoryName=com.songzi.util.hibernate.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/server/src/com/songzi/util/hibernate/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=com.songzi.dao.BaseHibernateDAO
